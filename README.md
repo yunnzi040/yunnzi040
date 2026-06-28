@@ -16,7 +16,7 @@
 **[투게댕(Togedaeng)](https://github.com/togedaeng/backend) (펫로스 위로를 위한 AI 반려견 교감 서비스)** | 2025.06 ~ 2025.09
 - 사진 기반 AI 모델링 연동 및 감정지수 로직·DB 설계, 백엔드 API 개발
 - 2025 메타버스 아카데미 최종 프로젝트
-- 2025 가상융합서비스 개발자 경진대회 (한국메타버스산업협회장상 수상)
+- 2025 가상융합서비스 개발자 경진대회 - 한국메타버스산업협회장상 수상
 
 ## Product
 <table>
@@ -30,3 +30,7 @@
     </td>
   </tr>
 </table>
+
+## Blog Post
+<a href="https://velog.io/@baeei"><img src="https://velog-readme-stats.vercel.app/api/list?name=baeei">
+
